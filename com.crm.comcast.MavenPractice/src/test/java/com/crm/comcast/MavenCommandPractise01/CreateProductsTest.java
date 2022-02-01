@@ -23,6 +23,10 @@ public class CreateProductsTest {
 	public void CreateProductsTest05() {
 		System.out.println("execute CreateProductsTest05");
 	}
+	@Test
+	public void CreateProductsTest06() {
+		System.out.println("execute CreateProductsTest06");
 	
 
+}
 }
